@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cars>
+	<Sedan>
+		<car id="1">
+			<category>Sedan</category>
+			<availability>True</availability>
+			<brand>Audi</brand>
+			<model>A4</model>
+			<model_year>2018</model_year>
+			<mileage>50000</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>220</price_per_day>
+			<description>Audi's A4 ranked #1 in 2018's luxury small cars, making this an excellent choice for those looking for something sure to impress.</description>
+    </car>
+		<car id="2">
+			<category>Sedan</category>
+			<availability>True</availability>
+			<brand>Nissan</brand>
+			<model>Altima</model>
+			<model_year>2018</model_year>
+			<mileage>90000</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>170</price_per_day>
+			<description>Nissan's Altima has an excellent safety score and saves on fuel, making this a great mid-range budget choice!</description>
+		</car>
+		<car id="3">
+			<category>Sedan</category>
+			<availability>True</availability>
+			<brand>Honda</brand>
+			<model>Civic</model>
+			<model_year>2018</model_year>
+			<mileage>20000</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>140</price_per_day>
+			<description>The Honda Civic is our most affordable rental!</description>      
+		</car>
+		<car id="4">
+			<category>Sedan</category>
+			<availability>True</availability>
+			<brand>Cadillac</brand>
+			<model>ATS-V</model>
+			<model_year>2018</model_year>
+			<mileage>10000</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>250</price_per_day>
+			<description>The Cadillac ATS-V drives at the speed of a sports car but without the discomfort of one, and performs both on road and track!</description>
+		</car>
+	</Sedan>
+	<Wagon>
+		<car id="5">
+			<category>Wagon</category>
+			<availability>False</availability>
+			<brand>Subaru</brand>
+			<model>Outback</model>
+			<model_year>2018</model_year>
+			<mileage>8888</mileage>
+			<fuel_type>diesel</fuel_type>
+			<seats>5</seats>
+			<price_per_day>170</price_per_day>
+			<description>The Subaru Outback has a roomier interior both for passengers and cargo!</description>
+		</car>  
+		<car id="6">
+			<category>Wagon</category>
+			<availability>True</availability>
+			<brand>Ford</brand>
+			<model>Transit Connect</model>
+			<model_year>2018</model_year>
+			<mileage>65000</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>4</seats>
+			<price_per_day>120</price_per_day>
+			<description>The Ford Transit Connect is your best option for hauling all your luggage to the airport, with its extra large cargo space!</description>
+		</car>
+	</Wagon>  
+  	<SUV>
+		<car id="7">
+			<category>SUV</category>
+			<availability>True</availability>
+			<brand>Land Rover</brand>
+			<model>Range Rover</model>
+			<model_year>2018</model_year>
+			<mileage>86500</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>190</price_per_day>
+			<description>Take a drive in the outback with the 2018 Range Rover, perfect for all terrains, rain or shine!</description>
+		</car>
+		<car id="8">
+			<category>SUV</category>
+			<availability>False</availability>
+			<brand>Jeep</brand>
+			<model>Grand Cherokee</model>
+			<model_year>2018</model_year>
+			<mileage>75000</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>140</price_per_day>
+			<description>Our Jeep Grand Cherokee is our most affordable off-road option!</description>
+		</car>
+		<car id="9">
+			<category>SUV</category>
+			<availability>False</availability>
+			<brand>Chevrolet</brand>
+			<model>Traverse</model>
+			<model_year>2018</model_year>
+			<mileage>28000</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>8</seats>
+			<price_per_day>140</price_per_day>
+			<description>In need of a large amount of seating and cargo space, without sacrificing style and comfort? Pick the Chevrolet Traverse!</description>
+		</car> 
+    		<car id="10">
+			<category>SUV</category>
+			<availability>False</availability>
+			<brand>Rolls Royce</brand>
+			<model>Cullinan</model>
+			<model_year>2021</model_year>
+			<mileage>0</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>1500</price_per_day>
+			<description>Coming soon! As soon as we can afford to stock one!</description>
+		</car>
+	</SUV>
+</Cars>
