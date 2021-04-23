@@ -111,7 +111,7 @@
       {
          "@id": "9",
          "category": "SUV",
-         "availability": "False",
+         "availability": "True",
          "brand": "Chevrolet",
          "model": "Traverse",
          "model_year": "2018",
