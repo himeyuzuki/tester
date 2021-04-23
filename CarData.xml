@@ -103,7 +103,7 @@
 		</car>
 		<car id="9">
 			<category>SUV</category>
-			<availability>False</availability>
+			<availability>True</availability>
 			<brand>Chevrolet</brand>
 			<model>Traverse</model>
 			<model_year>2018</model_year>
